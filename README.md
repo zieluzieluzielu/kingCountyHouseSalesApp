@@ -1,5 +1,5 @@
 # Houses sold in King County 
-Analysis of the open [dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) on House Sales in King County, USA
+Analysis of the open [dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) on House Sales in King County, USA between 05-2014 and 05-2015
 
 
 The app is in **main.py** file
