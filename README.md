@@ -16,5 +16,7 @@ Once Streamlit has been installed you can run the main file by typing
 
 ```  $ streamlit run main.py ```
 
-
 The app will appear on your browser 
+
+
+The deployed web application is live at https://kingcounty-house-sales-app.herokuapp.com/
