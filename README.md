@@ -2,6 +2,7 @@
 Analysis of the open [dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) on House Sales in King County, USA
 
 
+The app is in **main.py** file
 
 To run the app locally you need to have imported libraries
 - pandas 
