@@ -19,4 +19,4 @@ Once Streamlit has been installed you can run the main file by typing
 The app will appear on your browser 
 
 
-The deployed web application is live at  <a href="https://kingcounty-house-sales-app.herokuapp.com/)" target="_blank">https://kingcounty-house-sales-app.herokuapp.com/</a>
+The deployed web application is live at  <a href="https://kingcounty-house-sales-app.herokuapp.com/>" target="_blank">https://kingcounty-house-sales-app.herokuapp.com/</a>
