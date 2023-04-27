@@ -428,6 +428,3 @@ with tab2:
                                                        )
             average_price_floor_not_filtered.update_layout(showlegend=False)
             st.plotly_chart(average_price_floor_not_filtered, use_container_width=True)
-
-# else:
-#    st.error('There is no data to display - please select some other criteria')
