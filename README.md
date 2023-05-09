@@ -12,6 +12,10 @@ if you already have pandas and plotly.express, you need to install **Streamlit**
 
 ``` $ pip install streamlit ```
 
+The requirements.txt file lists all the dependencies. To install them run:
+
+```  $ pip install -r requirements.txt ```
+
 Once Streamlit has been installed you can run the main file by typing
 
 ```  $ streamlit run main.py ```
